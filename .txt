@@ -1,3 +1,8 @@
 durga
+<<<<<<< HEAD
 fjfjf
 lkgkg
+=======
+
+ghjgh
+>>>>>>> 7eebe6d06d74ff9d293456e216d9bbd4848c7987
